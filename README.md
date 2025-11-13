@@ -32,11 +32,6 @@
   <img width=550 src="https://github-profile-trophy.vercel.app/?username=MUMIT-404-CYBER&theme=matrix&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/>
 </p>
 
-<p align="center"> 
-  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 <br>
-  <img src="https://profile-counter.glitch.me/MUMIT-404-CYBER/count.svg" alt="Visitors">
-</p>
-
 ---
 
 <h2>⚙️ INSTALL SCRIPT</h2>
