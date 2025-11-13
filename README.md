@@ -55,14 +55,17 @@ wget https://raw.githubusercontent.com/spider660/Lau_Op/main/update.sh && chmod 
 
 <h2>💽 TESTED ON OS</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Debian%209-Stretch-purple?style=for-the-badge&logo=debian">
-<img src="https://img.shields.io/badge/Debian%2010-Buster-purple?style=for-the-badge&logo=debian">
-<img src="https://img.shields.io/badge/Debian%2011-Bullseye-purple?style=for-the-badge&logo=debian">
-<img src="https://img.shields.io/badge/Debian%2012-Bookworm-purple?style=for-the-badge&logo=debian">
-<img src="https://img.shields.io/badge/Ubuntu-18.04-red?style=for-the-badge&logo=ubuntu">
-<img src="https://img.shields.io/badge/Ubuntu-20.04-red?style=for-the-badge&logo=ubuntu">
-<img src="https://img.shields.io/badge/Ubuntu-22.04-red?style=for-the-badge&logo=ubuntu">
-<img src="https://img.shields.io/badge/Ubuntu-24.04-red?style=for-the-badge&logo=ubuntu">
+  <img src="https://img.shields.io/badge/Debian%209-Stretch-purple?style=for-the-badge&logo=debian">
+  <img src="https://img.shields.io/badge/Debian%2010-Buster-purple?style=for-the-badge&logo=debian">
+  <img src="https://img.shields.io/badge/Debian%2011-Bullseye-purple?style=for-the-badge&logo=debian">
+  <img src="https://img.shields.io/badge/Debian%2012-Bookworm-purple?style=for-the-badge&logo=debian">
+  <img src="https://img.shields.io/badge/Debian%2013-Trixie-purple?style=for-the-badge&logo=debian">
+  <br>
+  <img src="https://img.shields.io/badge/Ubuntu-18.04-red?style=for-the-badge&logo=ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-20.04-red?style=for-the-badge&logo=ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-22.04-red?style=for-the-badge&logo=ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-24.04-red?style=for-the-badge&logo=ubuntu">
+  <img src="https://img.shields.io/badge/Ubuntu-25.04-red?style=for-the-badge&logo=ubuntu">
 </p>
 
 ---
