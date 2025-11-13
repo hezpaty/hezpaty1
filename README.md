@@ -1,94 +1,109 @@
-
-<!-- Github README -->
-
-<p align="center"><big><img src="https://img.shields.io/badge/𝐈𝐀𝐌 𝘼%20𝐂𝐘𝐁𝐄𝐑 𝐒𝐄𝐂𝐔𝐑𝐈𝐓𝐘 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑-𝐀𝐍𝐃 𝐀 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑-blue?colorA=%230069ff&colorB=%2313ff00ec&style=flat-square"></big>
-
-</i></b></h3>
-<h3 align="center">
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙈𝙔 𝙒𝙊𝙍𝙇𝘿&nbsp;
-  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-</h3>
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+<!-- ⚡ CYBERPUNK README ⚡ -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23fbed16&center=true&vCenter=true&lines=SPIDERWEBX-𝐓𝐄𝐂𝐇" />
+  <img src="https://media.tenor.com/Zm0vHZvW_7YAAAAC/cyberpunk-anime.gif" width="750">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2358f317&size=27&lines=𝙒𝙀+𝘼𝙍𝙀+𝐓𝐄𝐂𝐇𝐒;+𝙒𝙀+𝘿𝙊+𝐍𝐎𝙏+𝐁𝐑𝐄𝐀𝐂𝐇;𝙒𝙀+𝐄𝐍𝐂𝐑𝐘𝐏𝐓;𝙒𝙀+𝐒𝐄𝐂𝐔𝐑𝐄+𝐎𝐔𝐑+𝐃𝐀𝐓𝐀)](https://git.io/typing-svg)
+<h1 align="center">
+  🕷️ SPIDERWEBX TECH 🕷️<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=500&color=00FFF9&center=true&vCenter=true&width=700&lines=⚔️+CYBER+SECURITY+ENGINEER;💻+PROGRAMMER+IN+THE+MATRIX;🧠+HACK+THE+PLANET;🚀+SPIDER+INTELLIGENCE+ONLINE;⚡+INITIATING+DIGITAL+REALM...">
+</h1>
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/spider660/Lau_Op.git"><img width=550 src="https://github-profile-trophy.vercel.app/?username=MUMIT-404-CYBER&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/HACKER_MODE-ONLINE-00ffcc?style=for-the-badge&logo=github&colorA=000000&colorB=00ffcc">
+  <img src="https://img.shields.io/badge/SPIDER_NETWORK-ENCRYPTED-purple?style=for-the-badge&logo=neovim&colorA=000000&colorB=9900ff">
+  <img src="https://img.shields.io/badge/CYBERPUNK-AESTHETIC-black?style=for-the-badge&logo=react&colorA=000000&colorB=ff0099">
 </p>
+
+<h2 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+  WELCOME TO MY DIGITAL DOMAIN
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=SPIDERWEBX-TECH;WE+ENCRYPT+%7C+WE+SECURE+%7C+WE+BUILD;NO+BREACH+ONLY+INNOVATION">
+</p>
+
+---
+
+<h3 align="center">🏆 Github Statistics 🏆</h3>
+<p align="center">
+  <img width=550 src="https://github-profile-trophy.vercel.app/?username=MUMIT-404-CYBER&theme=matrix&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/>
+</p>
+
 <p align="center"> 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- <img src="https://profile-counter.glitch.me/MUMIT-404-CYBER/count.svg" alt="Visitors">
+  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 <br>
+  <img src="https://profile-counter.glitch.me/MUMIT-404-CYBER/count.svg" alt="Visitors">
 </p>
 
-### INSTALL SCRIPT 
+---
+
+<h2>⚙️ INSTALL SCRIPT</h2>
+
 ```
 wget --no-check-certificate https://raw.githubusercontent.com/spider660/Lau_Op/main/spider.sh -O spider.sh && chmod +x spider.sh && ./spider.sh
-
 ```
 
-### UPDATED SCRIPT
+<h2>🛰️ UPDATE SCRIPT</h2>
+
 ```
 wget https://raw.githubusercontent.com/spider660/Lau_Op/main/update.sh && chmod +x update.sh && ./update.sh
-
 ```
-### TESTED ON OS 
 
-<p align="center"><small><img src="https://d33wubrfki0l68.cloudfront.net/5911c43be3b1da526ed609e9c55783d9d0f6b066/9858b/assets/img/debian-ubuntu-hover.png"></small></p> 
-<p align="center"><small><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Stretch&color=purple"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010&message=Buster&color=purple">
-<img
-src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2011&message=Bullseye&color=purple">  
-<small>
-<img
-src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2012&message=Bookworm&color=purple">  
-<img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=Lts&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2020.04&message=Lts&color=red">
-</small>
-<img
-src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2022.04&message=Lts&color=red">
-</small>
-<img
-src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2024.04&message=Lts&color=red">
-</img></small></p>
+---
 
+<h2>💽 TESTED ON OS</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Debian%209-Stretch-purple?style=for-the-badge&logo=debian">
+<img src="https://img.shields.io/badge/Debian%2010-Buster-purple?style=for-the-badge&logo=debian">
+<img src="https://img.shields.io/badge/Debian%2011-Bullseye-purple?style=for-the-badge&logo=debian">
+<img src="https://img.shields.io/badge/Debian%2012-Bookworm-purple?style=for-the-badge&logo=debian">
+<img src="https://img.shields.io/badge/Ubuntu-18.04-red?style=for-the-badge&logo=ubuntu">
+<img src="https://img.shields.io/badge/Ubuntu-20.04-red?style=for-the-badge&logo=ubuntu">
+<img src="https://img.shields.io/badge/Ubuntu-22.04-red?style=for-the-badge&logo=ubuntu">
+<img src="https://img.shields.io/badge/Ubuntu-24.04-red?style=for-the-badge&logo=ubuntu">
+</p>
 
-### ADDITIONAL FEATURES
+---
+
+<h2>🧩 ADDITIONAL FEATURES</h2>
+
 ```
 - Add 1GiB Swap
-- Dynamic installation
-- Tuning profile on the server
-- Xray Core
-- Added fail2ban
-- Auto block some  ads by default
-- Auto clear log every 3 minutes
-- Auto dealer expired
-- User Account Details
-```
-### PORT INFO
-```
-- TROJAN WS 443
-- TROJAN GRPC 443
-- SHADOWSOCKS WS 443
-- SHADOWSOCKS GRPC 443
-- VLESS WS 443
-- VLESS GRPC 443
-- VLESS NONTLS 80
-- VMESS WS 443
-- VMESS GRPC 443
-- VMESS NONTLS 80
-- SSH WS / TLS 443
-- SSH NON TLS 8880
-- OVPN SSL/TCP 1194
-- SLOWDNS 5300
+- Dynamic Installation System
+- Tuning Profile On Server
+- Xray Core Implementation
+- Fail2Ban + Firewall Defense
+- Auto Block Ads by Default
+- Auto Clear Log Every 3 Minutes
+- Dealer Account Expiration Alerts
+- Real-Time User Stats
+- Zero-Lag Optimization
 ```
 
-### SETTING CLOUDFLARE
+---
+
+<h2>🚀 PORT INFO</h2>
+
 ```
-- SSL/TLS : FULL,FULL STRICT 
+443 - TROJAN WS / GRPC
+443 - SHADOWSOCKS WS / GRPC
+443 - VLESS WS / GRPC
+80  - VLESS / VMESS NONTLS
+443 - VMESS WS / GRPC
+443 - SSH WS / TLS
+8880 - SSH NON TLS
+1194 - OVPN SSL/TCP
+5300 - SLOWDNS
+```
+
+---
+
+<h2>🌐 CLOUDFLARE SETTINGS</h2>
+
+```
+- SSL/TLS : FULL or FULL STRICT 
 - SSL/TLS Recommender : OFF
 - GRPC : ON
 - WEBSOCKET : ON
@@ -96,13 +111,22 @@ src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubun
 - UNDER ATTACK MODE : OFF
 ```
 
-### TELEGRAM
-<p align="center"><b>
-<a href="https://t.me/spid_3r" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+---
 
-### WHATSAPP 
-<p align="center"><b>
-  <a href="https://wa.me/+254112011036" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+<h2>📞 CONNECT WITH ME</h2>
 
-#### SPIDER TECH
-<img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=00FF00&center=true&width=910&height=100&lines=Don%27t+forget+to+take+a+bath+%F0%9F%A5%B8%0A;Program+by+Spider&v=3" alt="Typing SVG" />
+<p align="center">
+  <a href="https://t.me/spid_3r"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=Click%20Here&color=00FFFF"></a>
+  <a href="https://wa.me/+254112011036"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=whatsapp&label=Whatsapp&message=Click%20Here&color=25D366"></a>
+</p>
+
+---
+
+<h2 align="center">⚡ SPIDER TECH ⚡</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=910&height=100&lines=Don't+forget+to+take+a+bath+🛀;Programmed+by+SPIDER;System+Integrity:+100%25;AI+CORE:+ACTIVE;🕸️+SPIDERWEBX+TECH+ONLINE">
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/4vC6O8ZpuEwAAAAd/hacker-cyberpunk.gif" width="700">
+</p>
