@@ -123,10 +123,12 @@ wget https://raw.githubusercontent.com/spider660/Lau_Op/main/update.sh && chmod 
 ---
 
 <h2 align="center">⚡ SPIDER TECH ⚡</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=45&pause=1000&color=00FF00&center=true&vCenter=true&width=910&height=100&lines=Don't+forget+to+take+a+bath+🛀;Programmed+by+SPIDER;System+Integrity:+100%25;AI+CORE:+ACTIVE;🕸️+SPIDERWEBX+TECH+ONLINE">
-</p>
 
-<p align="center">
-  <img src="https://media.tenor.com/4vC6O8ZpuEwAAAAd/hacker-cyberpunk.gif" width="700">
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FFF9&center=true&vCenter=true&width=910&height=100&lines=Dont+forget+to+take+a+bath+%F0%9F%9B%80%EF%B8%8F;Programmed+by+SPIDER;System+Integrity:+100%25;AI+CORE:+ACTIVE;SPIDERWEBX+TECH+ONLINE;CYBER+DEFENSE+MODE:+ENGAGED"
+      alt="Typing SVG — SPIDERWEBX"
+    />
+  </a>
+</div>
