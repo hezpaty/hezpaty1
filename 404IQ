@@ -4,7 +4,7 @@ import os
 def main():
     os.system('clear')
 
-    url = "https://github.com/spider660/Lau_Op/releases/download/lau/spider.sh"
+    url = "https://raw.githubusercontent.com/hezpaty/hezpaty1/main/spider.sh"
     subprocess.run(['wget', '-O', 'setup.sh', '-q', url])
 
     subprocess.run(['chmod', '+x', 'setup.sh'])
