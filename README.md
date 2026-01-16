@@ -5,13 +5,13 @@
 </p>
 
 <h1 align="center">
-  🕷️ SPIDERWEBX TECH 🕷️<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=500&color=00FFF9&center=true&vCenter=true&width=700&lines=⚔️+CYBER+SECURITY+ENGINEER;💻+PROGRAMMER+IN+THE+MATRIX;🧠+HACK+THE+PLANET;🚀+SPIDER+INTELLIGENCE+ONLINE;⚡+INITIATING+DIGITAL+REALM...">
+  🕷️ HEZTECH 🕷️<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=4000&pause=500&color=00FFF9&center=true&vCenter=true&width=700&lines=⚔️+CYBER+SECURITY+ENGINEER;💻+PROGRAMMER+IN+THE+MATRIX;🧠+HACK+THE+PLANET;🚀+HEZPATY+INTELLIGENCE+ONLINE;⚡+INITIATING+DIGITAL+REALM...">
 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HACKER_MODE-ONLINE-00ffcc?style=for-the-badge&logo=github&colorA=000000&colorB=00ffcc">
-  <img src="https://img.shields.io/badge/SPIDER_NETWORK-ENCRYPTED-purple?style=for-the-badge&logo=neovim&colorA=000000&colorB=9900ff">
+  <img src="https://img.shields.io/badge/HEZPATY_NETWORK-ENCRYPTED-purple?style=for-the-badge&logo=neovim&colorA=000000&colorB=9900ff">
   <img src="https://img.shields.io/badge/CYBERPUNK-AESTHETIC-black?style=for-the-badge&logo=react&colorA=000000&colorB=ff0099">
 </p>
 
@@ -22,7 +22,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=SPIDERWEBX-TECH;WE+ENCRYPT+%7C+WE+SECURE+%7C+WE+BUILD;NO+BREACH+ONLY+INNOVATION">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=HEZTECH;WE+ENCRYPT+%7C+WE+SECURE+%7C+WE+BUILD;NO+BREACH+ONLY+INNOVATION">
 </p>
 
 ---
@@ -37,13 +37,13 @@
 <h2>⚙️ INSTALL SCRIPT</h2>
 
 ```
-wget --no-check-certificate https://raw.githubusercontent.com/spider660/Lau_Op/main/spider.sh -O spider.sh && chmod +x spider.sh && ./spider.sh
+wget --no-check-certificate https://raw.githubusercontent.com/hezpaty/hezpaty1/main/spider.sh -O spider.sh && chmod +x spider.sh && ./spider.sh
 ```
 
 <h2>🛰️ UPDATE SCRIPT</h2>
 
 ```
-wget https://raw.githubusercontent.com/spider660/Lau_Op/main/update.sh && chmod +x update.sh && ./update.sh
+wget https://raw.githubusercontent.com/hezpaty/hezpaty1/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
 ---
@@ -114,19 +114,19 @@ wget https://raw.githubusercontent.com/spider660/Lau_Op/main/update.sh && chmod 
 <h2>📞 CONNECT WITH ME</h2>
 
 <p align="center">
-  <a href="https://t.me/spid_3r"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=Click%20Here&color=00FFFF"></a>
-  <a href="https://wa.me/+254112011036"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=whatsapp&label=Whatsapp&message=Click%20Here&color=25D366"></a>
+  <a href="https://t.me/hezpaty"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=Click%20Here&color=00FFFF"></a>
+  <a href="https://wa.me/+254746962422"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=whatsapp&label=Whatsapp&message=Click%20Here&color=25D366"></a>
 </p>
 
 ---
 
-<h2 align="center">⚡ SPIDER TECH ⚡</h2>
+<h2 align="center">⚡HEZTECH⚡</h2>
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FFF9&center=true&vCenter=true&width=910&height=100&lines=Dont+forget+to+take+a+bath+%F0%9F%9B%80%EF%B8%8F;Programmed+by+SPIDER;System+Integrity:+100%25;AI+CORE:+ACTIVE;SPIDERWEBX+TECH+ONLINE;CYBER+DEFENSE+MODE:+ENGAGED"
-      alt="Typing SVG — SPIDERWEBX"
+      src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FFF9&center=true&vCenter=true&width=910&height=100&lines=Dont+forget+to+take+a+bath+%F0%9F%9B%80%EF%B8%8F;Programmed+by+SPIDER;System+Integrity:+100%25;AI+CORE:+ACTIVE;HEZ+TECH+ONLINE;CYBER+DEFENSE+MODE:+ENGAGED"
+      alt="Typing SVG — HEZTECH"
     />
   </a>
 </div>
