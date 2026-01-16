@@ -125,7 +125,7 @@ wget https://raw.githubusercontent.com/hezpaty/hezpaty1/main/update.sh && chmod 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FFF9&center=true&vCenter=true&width=910&height=100&lines=Dont+forget+to+take+a+bath+%F0%9F%9B%80%EF%B8%8F;Programmed+by+SPIDER;System+Integrity:+100%25;AI+CORE:+ACTIVE;HEZ+TECH+ONLINE;CYBER+DEFENSE+MODE:+ENGAGED"
+      src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=00FFF9&center=true&vCenter=true&width=910&height=100&lines=Dont+forget+to+take+a+bath+%F0%9F%9B%80%EF%B8%8F;Programmed+by+HEZPATY;System+Integrity:+100%25;AI+CORE:+ACTIVE;HEZ+TECH+ONLINE;CYBER+DEFENSE+MODE:+ENGAGED"
       alt="Typing SVG — HEZTECH"
     />
   </a>
